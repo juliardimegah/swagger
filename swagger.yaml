@@ -10,8 +10,8 @@ info:
     url: 
   version: 1.0.11
 externalDocs:
-  description: Repo GCF
-  url: https://github.com/Fancypedia/fancybackenddd
+  description: Find out more about Swagger
+  url: https://swagger.io
 servers:
   - url: https://us-central1-gismegah.cloudfunctions.net/functgomong
   - url: https://asia-southeast2-gismegah.cloudfunctions.net/function-2
